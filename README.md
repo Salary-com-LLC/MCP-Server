@@ -1,6 +1,5 @@
 Salary.com Job Match MCP for AI
-
-What is MCP (Model Context Protocol)
+What is MCP (Model Context Protocol)?
 Model Context Protocol (MCP) is a standardized interface that allows AI systems to securely and consistently access external data sources in real time. MCP enables AI applications—such as chatbots, copilots, and agents—to retrieve trusted, structured information and return it directly within the AI conversation context.
 In simple terms, MCP allows AI to “plug into” authoritative data and use it intelligently during a user interaction.
 ________________________________________
